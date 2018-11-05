@@ -1,0 +1,12 @@
+<resources>
+
+
+    <string name="app_name">Weather App</string>
+    <string name="no_city">There is no cities saved yet</string>
+    <string name="title_activity_add_city">Add City</string>
+    <string name="wait">please, Wait</string>
+    <string name="you_saved">number of selected places  </string>
+    <string name="check_internet">Please Check Internet Connection  </string>
+
+
+</resources>

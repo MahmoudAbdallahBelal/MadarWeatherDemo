@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">الطقس</string>
+    <string name="no_city">لا يوجد مدن محفوظة حتي الآن</string>
+    <string name="wait">من فضلك . انتظر</string>
+    <string name="you_saved"> عدد الاماكن التي تم اختيارها </string>
+    <string name="check_internet"> من فضلك . تأكد من الاتصال بالانترنت</string>
+
+
+
+</resources>
